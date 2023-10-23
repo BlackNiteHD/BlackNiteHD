@@ -1,4 +1,7 @@
-### Hi there 👋
+### Dev and Modeller
+
+[![My Skills](https://skillicons.dev/icons?i=blender,js,html,css,idea,git,figma,electron,bootstrap,&perline=10)](https://skillicons.dev)
+
 
 <!--
 **BlackNiteHD/BlackNiteHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
