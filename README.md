@@ -4,12 +4,11 @@
 
 ### Curent project(s)
 
-ARKTIS SCP RP : [https://discord.gg/H724sTRv2j](ARKTIS)
+- ARKTIS SCP RP : [https://discord.gg/H724sTRv2j](ARKTIS)
 
 ### Past project(s)
 
-ANNIHILATION
-FACILITY SCP RP
+- FACILITY SCP RP
 
 <!--
 **BlackNiteHD/BlackNiteHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
