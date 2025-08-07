@@ -1,5 +1,3 @@
-### Developpers and Modeller
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=blender,js,html,css,idea,git,java,vscode,py" />
