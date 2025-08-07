@@ -4,6 +4,11 @@
 ### Dev and Modeller
 
 [![My Skills](https://skillicons.dev/icons?i=blender,js,html,css,idea,git,figma,electron,bootstrap,&perline=10)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,js,html,css,idea,git,java,vscode,py" />
+  </a>
+</p>
 
 ### Curent project(s)
 
